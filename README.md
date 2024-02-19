@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQEZ2Cd1DmafpQ/article-cover_image-shrink_720_1280/0/1699194763604?e=1712793600&v=beta&t=gzE3ehiSXj31mWfZ9UWkchJvFZlGfWzZ53kdfL2BL6Q)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Abhilash Yadav</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI5NnJrNXRwZmN1bGdvOW0wcWZybnc1MXI3NXFsYXZkd244MzRzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
